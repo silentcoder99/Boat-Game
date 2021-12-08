@@ -1,0 +1,141 @@
+﻿  boat.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(14,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(18,8): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(17,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(47,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(40,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(76,73): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(81,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(82,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(86,62): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(104,72): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(108,76): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(154,46): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(141,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(142,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(147,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(148,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(157,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(158,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  camera.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\camera.c(13,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  cannonBall.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\cannonBall.c(17,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\cannonBall.c(20,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\cannonBall.c(65,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\cannonBall.c(47,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\cannonBall.c(48,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\cannonBall.c(96,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  collision.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\collision.c(8,35): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\collision.c(24,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\collision.c(29,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  config.c
+  draw.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(41,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(61,29): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(61,46): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(62,28): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(62,45): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(63,28): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(63,46): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(64,29): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(64,47): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(59,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(73,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(74,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(75,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(76,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(86,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(87,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(88,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(89,41): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(101,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(101,46): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(102,26): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(102,45): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(103,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(103,44): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(104,25): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(104,45): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(152,39): warning C4047: 'function': 'GLuint' differs in levels of indirection from 'GLuint *'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(152,39): warning C4024: 'glBindTexture': different types for formal and actual parameter 2
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(185,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(203,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(204,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(210,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(215,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(246,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(260,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(293,64): warning C4133: 'function': incompatible types - from 'Vec4 *' to 'const GLfloat *'
+C:\Users\silen\Documents\Projects\Boat-Game\src\draw.c(294,61): warning C4133: 'function': incompatible types - from 'Vec4 *' to 'const GLfloat *'
+  island.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(9,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(13,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(13,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(24,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(25,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(50,48): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(52,45): warning C4047: 'function': 'GLuint *' differs in levels of indirection from 'GLuint'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(52,45): warning C4024: 'drawCuboid': different types for formal and actual parameter 2
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(57,40): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(59,31): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(59,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(61,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\island.c(62,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  list.c
+  main.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(53,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(69,73): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(69,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(76,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(91,46): warning C4133: 'function': incompatible types - from 'Vec4 *' to 'const GLfloat *'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(99,70): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(109,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(113,74): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(126,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(227,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(240,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(332,44): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(355,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(347,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(358,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(366,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(369,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(372,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(400,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(419,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\main.c(444,19): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  scene.c
+  time.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\time.c(9,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\time.c(24,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\time.c(36,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  util.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\util.c(5,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\util.c(9,29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\util.c(26,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\util.c(41,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\util.c(94,60): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  water.c
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(7,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(14,66): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(17,66): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(24,70): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(27,70): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(24,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(27,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(59,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(94,45): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(87,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(88,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(112,47): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(113,47): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(102,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\silen\Documents\Projects\Boat-Game\src\water.c(103,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\silen\Documents\Projects\Boat-Game\src\boat.c(126): warning C4716: 'boat_ballCollision': must return a value
+  i3d.vcxproj -> C:\Users\silen\Documents\Projects\Boat-Game\vs\\..\i3d64dbg.exe

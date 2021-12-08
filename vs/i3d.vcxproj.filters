@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{e9b2b8c8-28b3-4eff-986f-98a1b2cd3417}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\main.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\list.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\cannonBall.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\util.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\draw.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\collision.c" />
+    <ClCompile Include="..\src\boat.c" />
+    <ClCompile Include="..\src\water.c" />
+    <ClCompile Include="..\src\island.c" />
+    <ClCompile Include="..\src\config.c" />
+    <ClCompile Include="..\src\time.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\camera.c" />
+    <ClCompile Include="..\src\scene.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\list.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\cannonBall.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\util.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\draw.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\config.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\collision.h" />
+    <ClInclude Include="..\src\boat.h" />
+    <ClInclude Include="..\src\water.h" />
+    <ClInclude Include="..\src\island.h" />
+    <ClInclude Include="..\src\time.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\camera.h" />
+    <ClInclude Include="..\src\scene.h" />
+    <ClInclude Include="..\src\stb_image.h" />
+  </ItemGroup>
+</Project>
